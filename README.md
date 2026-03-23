@@ -28,7 +28,7 @@ Standard Kalman prediction / update.
 
 ## Repository Contents
 
-- `src/` – core modules
+- `src/` – core modules and data generation
 - `notebooks/` – interactive demo
 - `tests/` – unit tests
 
